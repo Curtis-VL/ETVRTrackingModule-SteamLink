@@ -35,8 +35,6 @@ Don't forget to replace the `{your_user}` part with your pc's name.
     to:
     
     `C:\Users\lorow\AppData\Roaming\VRCFaceTracking\CustomLibs\`
-	
-Lastly, start VRCFaceTracking!
 
 ### SteamVR setup
 
@@ -46,12 +44,16 @@ Steam Link > Enable OSC > On
 Steam Link > Share face tracking data to other apps on this PC via OSC > On
 Steam Link > OSC Output Port > 9015 (ALT)
 
-
 ### EyeTrackVR app setup
 
 You'll need to change the `Port` in `Settings` from `9000` to `8889`.
 
 Settings will save automatically, but for them to take effect, you'll need to restart the app.
+
+### You're done!
+
+Start VRCFaceTracking!
+
 
 ## Want more info about the EyeTrackVR VRCFaceTracking module?
 
